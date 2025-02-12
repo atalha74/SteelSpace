@@ -1,0 +1,5 @@
+C:/Users/ahmet/SteelSpace/.utmp/Debug/2a3l3x5x/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ahmet/SteelSpace/.utmp/Debug/2a3l3x5x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/ahmet/SteelSpace/.utmp/Debug/2a3l3x5x/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/ahmet/SteelSpace/.utmp/Debug/2a3l3x5x/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/ahmet/SteelSpace/.utmp/Debug/2a3l3x5x/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
